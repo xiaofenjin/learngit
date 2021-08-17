@@ -6,7 +6,10 @@ test fast merge
 
 edit A OVER.
 
-edit B over.
-
 edit C over.
+
+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
+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
+
+
 
