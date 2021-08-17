@@ -6,3 +6,6 @@ test fast merge
 
 edit A OVER.
 
+edit B over.
+
+
